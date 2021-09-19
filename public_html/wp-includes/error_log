@@ -1,0 +1,31 @@
+[20-Nov-2018 00:22:38 America/Chicago] PHP Fatal error:  Call to undefined function is_robots() in /home2/e4i2y3g3/public_html/wp-includes/template-loader.php on line 28
+[24-Sep-2019 18:24:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Sep-2019 18:24:54 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-Aug-2020 12:49:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Aug-2020 12:49:45 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-Aug-2020 12:49:45 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/e4i2y3g3/public_html/wp-includes/locale.php on line 11
+[15-Aug-2020 08:30:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Aug-2020 08:30:48 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-Aug-2020 14:11:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Aug-2020 14:11:50 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-Aug-2020 14:11:50 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home2/e4i2y3g3/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[27-Dec-2020 21:51:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Dec-2020 21:51:59 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Dec-2020 21:51:59 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/e4i2y3g3/public_html/wp-includes/functions.php on line 8
+[27-Dec-2020 21:51:59 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/e4i2y3g3/public_html/wp-includes/functions.php on line 8
+[27-Dec-2020 21:51:59 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php56/lib/php') in /home2/e4i2y3g3/public_html/wp-includes/functions.php on line 8
+[11-Jul-2021 16:54:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Jul-2021 16:54:29 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Jul-2021 12:25:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jul-2021 12:25:00 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Jul-2021 12:25:00 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/e4i2y3g3/public_html/wp-includes/locale.php on line 11
+[13-Jul-2021 19:47:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jul-2021 19:47:40 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Jul-2021 19:47:40 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home2/e4i2y3g3/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[03-Aug-2021 02:03:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-Aug-2021 02:03:29 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-Aug-2021 02:03:29 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/e4i2y3g3/public_html/wp-includes/functions.php on line 8
+[03-Aug-2021 02:03:29 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/e4i2y3g3/public_html/wp-includes/functions.php on line 8
+[03-Aug-2021 02:03:29 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php56/lib/php') in /home2/e4i2y3g3/public_html/wp-includes/functions.php on line 8
+[30-Aug-2021 02:19:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-Aug-2021 02:19:56 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0

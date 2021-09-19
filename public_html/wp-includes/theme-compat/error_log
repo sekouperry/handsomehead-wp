@@ -1,0 +1,1 @@
+[07-Jun-2018 04:06:32 America/Chicago] PHP Fatal error:  Call to undefined function post_class() in /home2/e4i2y3g3/public_html/wp-includes/theme-compat/embed-content.php on line 13
