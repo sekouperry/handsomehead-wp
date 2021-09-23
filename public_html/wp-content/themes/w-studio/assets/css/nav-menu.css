@@ -1,0 +1,11 @@
+.field-w-mega-menu{
+    display: none;
+    width: 100%;
+    clear: both;
+}
+.w-mega-menu-item .field-w-mega-menu{
+    display: block;
+}
+.menu-item-settings{
+    overflow: hidden;
+}

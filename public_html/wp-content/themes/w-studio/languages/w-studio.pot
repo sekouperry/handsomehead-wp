@@ -1,0 +1,2194 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: W Studio\n"
+"POT-Creation-Date: 2017-01-03 19:32+0600\n"
+"PO-Revision-Date: 2017-01-03 19:31+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "404"
+msgstr ""
+
+#: 404.php:19
+msgid "Looks like you are lost"
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"The page you are looking for was moved, removed,renamed or might never "
+"existed."
+msgstr ""
+
+#: 404.php:25
+msgid "go home"
+msgstr ""
+
+#: archive-team.php:43
+msgid "Creative Director"
+msgstr ""
+
+#: base/ajax/ajax-loader.php:160 base/ajax/ajax-loader.php:359
+#: base/views/template-parts/content-aside-style-3.php:52
+#: base/views/template-parts/content-audio-style-3.php:52
+#: base/views/template-parts/content-chat-style-3.php:52
+#: base/views/template-parts/content-gallery-style-3.php:52
+#: base/views/template-parts/content-image-style-3.php:52
+#: base/views/template-parts/content-link-style-3.php:52
+#: base/views/template-parts/content-quote-style-3.php:52
+#: base/views/template-parts/content-standard-style-3.php:52
+#: base/views/template-parts/content-status-style-3.php:52
+#: base/views/template-parts/content-video-style-3.php:52
+msgid "view post"
+msgstr ""
+
+#: base/ajax/ajax-loader.php:311
+#: base/views/template-parts/content-aside-style-2.php:49
+#: base/views/template-parts/content-audio-style-2.php:49
+#: base/views/template-parts/content-chat-style-2.php:49
+#: base/views/template-parts/content-gallery-style-2.php:49
+#: base/views/template-parts/content-image-style-2.php:49
+#: base/views/template-parts/content-link-style-2.php:49
+#: base/views/template-parts/content-quote-style-2.php:49
+#: base/views/template-parts/content-standard-style-2.php:49
+#: base/views/template-parts/content-status-style-2.php:49
+#: base/views/template-parts/content-video-style-2.php:49
+msgid "Read More"
+msgstr ""
+
+#: base/inc/customizer.php:259
+msgid "Base Color Scheme"
+msgstr ""
+
+#: base/inc/customizer.php:289
+msgid "Page Background Color"
+msgstr ""
+
+#: base/inc/customizer.php:319
+msgid "Link Color"
+msgstr ""
+
+#: base/inc/customizer.php:343
+msgid "Main Text Color"
+msgstr ""
+
+#: base/inc/customizer.php:367
+msgid "Secondary Text Color"
+msgstr ""
+
+#: base/inc/customizer.php:505 base/metaboxes/page-metabox.php:98
+#: base/metaboxes/page-metabox.php:108 base/metaboxes/page-metabox.php:139
+#: base/metaboxes/page-metabox.php:179 base/metaboxes/page-metabox.php:293
+#: base/metaboxes/post-metabox.php:93 base/redux/config.php:934
+msgid "Default"
+msgstr ""
+
+#: base/inc/customizer.php:525
+msgid "Dark"
+msgstr ""
+
+#: base/inc/customizer.php:545
+msgid "Gray"
+msgstr ""
+
+#: base/inc/customizer.php:565
+msgid "Red"
+msgstr ""
+
+#: base/inc/customizer.php:585
+msgid "Yellow"
+msgstr ""
+
+#: base/load-scripts.php:206
+msgid "Choose or Upload an Image"
+msgstr ""
+
+#: base/load-scripts.php:206
+msgid "Use This Image"
+msgstr ""
+
+#: base/menu/mega-menu.php:161
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: base/menu/mega-menu.php:169
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: base/menu/mega-menu.php:195
+msgid "sub item"
+msgstr ""
+
+#: base/menu/mega-menu.php:207
+msgid "Move up"
+msgstr ""
+
+#: base/menu/mega-menu.php:217
+msgid "Move down"
+msgstr ""
+
+#: base/menu/mega-menu.php:225 base/menu/mega-menu.php:229
+msgid "Edit Menu Item"
+msgstr ""
+
+#: base/menu/mega-menu.php:247
+msgid "URL"
+msgstr ""
+
+#: base/menu/mega-menu.php:267
+msgid "Navigation Label"
+msgstr ""
+
+#: base/menu/mega-menu.php:287
+msgid "Title Attribute"
+msgstr ""
+
+#: base/menu/mega-menu.php:313
+msgid "Open link in a new tab"
+msgstr ""
+
+#: base/menu/mega-menu.php:325
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: base/menu/mega-menu.php:345
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: base/menu/mega-menu.php:365
+msgid "Description"
+msgstr ""
+
+#: base/menu/mega-menu.php:375
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: base/menu/mega-menu.php:387
+msgid "Move"
+msgstr ""
+
+#: base/menu/mega-menu.php:389
+msgid "Up one"
+msgstr ""
+
+#: base/menu/mega-menu.php:393
+msgid "Down one"
+msgstr ""
+
+#: base/menu/mega-menu.php:401
+msgid "To the top"
+msgstr ""
+
+#: base/menu/mega-menu.php:415
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: base/menu/mega-menu.php:425
+msgid "Remove"
+msgstr ""
+
+#: base/menu/mega-menu.php:433
+msgid "Cancel"
+msgstr ""
+
+#: base/menu/mega-menu.php:573 base/menu/mega-menu.php:689
+msgid "Mega Menu"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:14
+msgid "Page Settings"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:80
+msgid "Upload Logo (Only for this page)"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:90
+msgid "Upload logo"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:96
+msgid "Page Header Show/Hide"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:99 base/metaboxes/page-metabox.php:109
+#: base/metaboxes/page-metabox.php:265 base/metaboxes/page-metabox.php:274
+msgid "Show"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:100 base/metaboxes/page-metabox.php:110
+#: base/metaboxes/page-metabox.php:266 base/metaboxes/page-metabox.php:275
+msgid "Hide"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:106
+msgid "Page Footer Show/Hide"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:116
+msgid "Remove Header Margin"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:123
+msgid "Remove Footer Margin"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:130
+msgid "Hide Page Title"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:137 base/redux/config.php:462
+msgid "Page Title Alignment"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:140 base/metaboxes/page-metabox.php:452
+#: base/metaboxes/post-metabox.php:106 base/metaboxes/slider-metabox.php:143
+#: base/redux/config.php:465
+msgid "Left"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:141 base/metaboxes/page-metabox.php:454
+#: base/metaboxes/slider-metabox.php:144 base/metaboxes/slider-metabox.php:154
+#: base/redux/config.php:466
+msgid "Center"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:142 base/metaboxes/page-metabox.php:456
+#: base/metaboxes/post-metabox.php:108 base/metaboxes/slider-metabox.php:145
+#: base/redux/config.php:467
+msgid "Right"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:148
+msgid "Load Menu Below Header"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:155
+msgid "Main Menu Color"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:162
+msgid "Menu Background Transparent"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:169
+msgid "Menu Top Margin"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:176
+msgid "Sticky Menu Option"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:181
+msgid "Enable"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:183
+msgid "Disable"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:189
+msgid "One Page"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:195 base/redux/config.php:1756
+msgid "Page Sidebar Position"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:198 base/metaboxes/post-metabox.php:104
+#: base/redux/config.php:1759 base/redux/config.php:1786
+#: base/redux/config.php:1813
+msgid "No Sidebar"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:200 base/redux/config.php:1760
+#: base/redux/config.php:1787 base/redux/config.php:1814
+#: base/redux/config.php:2240
+msgid "Left Sidebar"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:202 base/redux/config.php:1761
+#: base/redux/config.php:1788 base/redux/config.php:1815
+#: base/redux/config.php:2239
+msgid "Right Sidebar"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:208
+msgid "Select Sidebar"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:225
+msgid "Enable Banner Slider"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:232
+msgid "Select Slider Category"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:248
+msgid "Slider Height"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:249 base/metaboxes/slider-metabox.php:106
+#: base/metaboxes/slider-metabox.php:112 base/metaboxes/slider-metabox.php:124
+#: base/metaboxes/slider-metabox.php:130
+msgid "px"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:254
+msgid "Slider Width"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:256 base/metaboxes/post-metabox.php:84
+#: base/redux/config.php:1344
+msgid "Full Width"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:257
+msgid "Container"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:263
+msgid "Slider Control Navigation Show/Hide"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:272
+msgid "Slider Direction Navigation Show/Hide"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:283
+msgid "Enable Page Banner"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:290
+msgid "Select Banner Type"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:295 base/redux/config.php:935
+msgid "Parallax"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:297 base/redux/config.php:936
+msgid "Without Parallax"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:303 base/redux/config.php:943
+msgid "Banner Background Image"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:313
+msgid "Choose Or Upload An Image"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:319 base/redux/config.php:1025
+#: base/redux/config.php:1183
+msgid "Banner Background Color"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:326 base/redux/config.php:953
+#: base/redux/config.php:1191 base/redux/config.php:1553
+msgid "Banner Overlay Color"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:333
+msgid "Banner Overlay Opacity"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:341 base/redux/config.php:973
+#: base/redux/config.php:1210 base/redux/config.php:1573
+msgid "Banner Transition Speed"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:348
+msgid "Enable Full Height Banner"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:355 base/redux/config.php:1511
+msgid "Banner Height"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:362
+msgid "Enter Banner Title"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:368
+msgid "Banner Title Font Size"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:375
+msgid "Banner Title Font Color"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:382
+msgid "Banner Subtitle (you can use <br/>)"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:389
+msgid "Banner Subtitle Font Size"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:396
+msgid "Banner Subtitle Font Color"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:403
+msgid "Enable Banner Button"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:409
+msgid "Banner Button Text"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:416
+msgid "Banner Button Link"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:424
+msgid "Banner Button link Color"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:432
+msgid "Banner Button Icon Color"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:440
+msgid "Banner Button link Hover Color"
+msgstr ""
+
+#: base/metaboxes/page-metabox.php:449
+msgid "Banner Content Alignment"
+msgstr ""
+
+#: base/metaboxes/post-metabox.php:27
+msgid "Post Settings"
+msgstr ""
+
+#: base/metaboxes/post-metabox.php:79
+msgid "Choose Banner Display"
+msgstr ""
+
+#: base/metaboxes/post-metabox.php:82
+msgid "Default Banner"
+msgstr ""
+
+#: base/metaboxes/post-metabox.php:83 base/redux/config.php:1343
+msgid "In Container"
+msgstr ""
+
+#: base/metaboxes/post-metabox.php:90
+msgid "Choose Title, Meta Display"
+msgstr ""
+
+#: base/metaboxes/post-metabox.php:94 base/redux/config.php:1354
+msgid "On Banner"
+msgstr ""
+
+#: base/metaboxes/post-metabox.php:95 base/redux/config.php:1355
+msgid "Below Banner"
+msgstr ""
+
+#: base/metaboxes/post-metabox.php:101
+msgid "Choose Sidebar Position"
+msgstr ""
+
+#: base/metaboxes/post-metabox.php:116
+msgid "Choose Sidebar To Load"
+msgstr ""
+
+#: base/metaboxes/post-metabox.php:130
+msgid "Choose Background Overlay Color"
+msgstr ""
+
+#: base/metaboxes/post-metabox.php:136
+msgid "Set Background Opacity"
+msgstr ""
+
+#: base/metaboxes/post-metabox.php:155
+msgid "Choose Title Color"
+msgstr ""
+
+#: base/metaboxes/post-metabox.php:161
+msgid "Choose Category Color"
+msgstr ""
+
+#: base/metaboxes/post-metabox.php:167
+msgid "Choose Meta Color"
+msgstr ""
+
+#: base/metaboxes/slider-metabox.php:27
+msgid "Slider Settings"
+msgstr ""
+
+#: base/metaboxes/slider-metabox.php:80
+msgid "Image Overlay Color"
+msgstr ""
+
+#: base/metaboxes/slider-metabox.php:86
+msgid "Overlay Opacity"
+msgstr ""
+
+#: base/metaboxes/slider-metabox.php:88
+msgid "Select Opacity"
+msgstr ""
+
+#: base/metaboxes/slider-metabox.php:105
+msgid "Title Font Size"
+msgstr ""
+
+#: base/metaboxes/slider-metabox.php:111
+msgid "Title Line Height"
+msgstr ""
+
+#: base/metaboxes/slider-metabox.php:117
+msgid "Title Color"
+msgstr ""
+
+#: base/metaboxes/slider-metabox.php:123
+msgid "Content Font Size"
+msgstr ""
+
+#: base/metaboxes/slider-metabox.php:129
+msgid "Content Line Height"
+msgstr ""
+
+#: base/metaboxes/slider-metabox.php:135
+msgid "Content Color"
+msgstr ""
+
+#: base/metaboxes/slider-metabox.php:141
+msgid "Content Horizontal  Alignment"
+msgstr ""
+
+#: base/metaboxes/slider-metabox.php:151
+msgid "Content Vertical Alignment"
+msgstr ""
+
+#: base/metaboxes/slider-metabox.php:153
+msgid "Top"
+msgstr ""
+
+#: base/metaboxes/slider-metabox.php:155
+msgid "Bottom"
+msgstr ""
+
+#: base/redux/config.php:53 base/redux/config.php:54
+msgid "W Studio Options"
+msgstr ""
+
+#: base/redux/config.php:179
+msgid "Theme Information 1"
+msgstr ""
+
+#: base/redux/config.php:180 base/redux/config.php:185
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: base/redux/config.php:184
+msgid "Theme Information 2"
+msgstr ""
+
+#: base/redux/config.php:191
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: base/redux/config.php:217
+msgid "Header"
+msgstr ""
+
+#: base/redux/config.php:219
+msgid "These are general options."
+msgstr ""
+
+#: base/redux/config.php:230
+msgid "Logo"
+msgstr ""
+
+#: base/redux/config.php:239
+msgid "Main Logo"
+msgstr ""
+
+#: base/redux/config.php:241
+msgid "Upload main logo"
+msgstr ""
+
+#: base/redux/config.php:249
+msgid "Sticky Logo"
+msgstr ""
+
+#: base/redux/config.php:251
+msgid "Upload sticky logo"
+msgstr ""
+
+#: base/redux/config.php:259
+msgid "Footer Logo"
+msgstr ""
+
+#: base/redux/config.php:261
+msgid "Upload footer logo"
+msgstr ""
+
+#: base/redux/config.php:269
+msgid "Menu"
+msgstr ""
+
+#: base/redux/config.php:278
+msgid "Main Menu Typography"
+msgstr ""
+
+#: base/redux/config.php:291
+msgid "Home Menu Color"
+msgstr ""
+
+#: base/redux/config.php:298
+msgid "Sub Menu Background Style"
+msgstr ""
+
+#: base/redux/config.php:305
+msgid "Sub Menu Border Style"
+msgstr ""
+
+#: base/redux/config.php:311
+msgid "Mega Menu Column Title Typography"
+msgstr ""
+
+#: base/redux/config.php:322
+msgid "Sub Menu Typography"
+msgstr ""
+
+#: base/redux/config.php:334
+msgid "Enable Search in Menu"
+msgstr ""
+
+#: base/redux/config.php:342
+msgid "Sticky Menu Enable/Disable"
+msgstr ""
+
+#: base/redux/config.php:350
+msgid "Sticky Menu Color"
+msgstr ""
+
+#: base/redux/config.php:358
+msgid "Other Header Options"
+msgstr ""
+
+#: base/redux/config.php:368
+msgid "Enable Header"
+msgstr ""
+
+#: base/redux/config.php:377
+msgid "Home Page Header Background Color"
+msgstr ""
+
+#: base/redux/config.php:385
+msgid "Other Page Header Background Color"
+msgstr ""
+
+#: base/redux/config.php:393
+msgid "Home Sticky Menu Background Color"
+msgstr ""
+
+#: base/redux/config.php:401
+msgid "Sticky Menu Background Color"
+msgstr ""
+
+#: base/redux/config.php:409
+msgid "Below Banner Menu Background Color"
+msgstr ""
+
+#: base/redux/config.php:418
+msgid "Appearance"
+msgstr ""
+
+#: base/redux/config.php:428
+msgid "Body Background Style"
+msgstr ""
+
+#: base/redux/config.php:436
+msgid "Page"
+msgstr ""
+
+#: base/redux/config.php:447
+msgid "Page Title Section"
+msgstr ""
+
+#: base/redux/config.php:455
+msgid "Page Title Section Enable/Disable"
+msgstr ""
+
+#: base/redux/config.php:474
+msgid "Page Title Seperator"
+msgstr ""
+
+#: base/redux/config.php:480
+msgid "Page Title Typography"
+msgstr ""
+
+#: base/redux/config.php:495
+msgid "Page Banner Section"
+msgstr ""
+
+#: base/redux/config.php:502
+msgid "Banner Title"
+msgstr ""
+
+#: base/redux/config.php:513
+msgid "Banner Sub Title"
+msgstr ""
+
+#: base/redux/config.php:528
+msgid "Typography Section"
+msgstr ""
+
+#: base/redux/config.php:535
+msgid "General Typography"
+msgstr ""
+
+#: base/redux/config.php:541
+msgid "Body Text Typography"
+msgstr ""
+
+#: base/redux/config.php:555
+msgid "Paragraph Typography"
+msgstr ""
+
+#: base/redux/config.php:568
+msgid "Text Link Color"
+msgstr ""
+
+#: base/redux/config.php:576
+msgid "Text Link Hover Color"
+msgstr ""
+
+#: base/redux/config.php:584
+msgid "Text Link Active Color"
+msgstr ""
+
+#: base/redux/config.php:592
+msgid "Text Strong Tag Color"
+msgstr ""
+
+#: base/redux/config.php:601
+msgid "Headers Typography"
+msgstr ""
+
+#: base/redux/config.php:607
+msgid "H1 Typography"
+msgstr ""
+
+#: base/redux/config.php:622
+msgid "H2 Typography"
+msgstr ""
+
+#: base/redux/config.php:633
+msgid "H3 Typography"
+msgstr ""
+
+#: base/redux/config.php:644
+msgid "H4 Typography"
+msgstr ""
+
+#: base/redux/config.php:655
+msgid "H5 Typography"
+msgstr ""
+
+#: base/redux/config.php:666
+msgid "H6 Typography"
+msgstr ""
+
+#: base/redux/config.php:682
+msgid "Testimonial Content"
+msgstr ""
+
+#: base/redux/config.php:693
+msgid "Testimonial Name"
+msgstr ""
+
+#: base/redux/config.php:704
+msgid "Testimonial Designation"
+msgstr ""
+
+#: base/redux/config.php:724
+msgid "Team Member Name"
+msgstr ""
+
+#: base/redux/config.php:735
+msgid "Member Details"
+msgstr ""
+
+#: base/redux/config.php:746
+msgid "Member Designation"
+msgstr ""
+
+#: base/redux/config.php:758 base/redux/config.php:1636
+msgid "Social Media Color"
+msgstr ""
+
+#: base/redux/config.php:774
+msgid "Widget Title"
+msgstr ""
+
+#: base/redux/config.php:785
+msgid "Widget Content"
+msgstr ""
+
+#: base/redux/config.php:800
+msgid "Portfolio Section"
+msgstr ""
+
+#: base/redux/config.php:807
+msgid "General Portfolio"
+msgstr ""
+
+#: base/redux/config.php:813
+msgid "Set Portfolio Number Per Page"
+msgstr ""
+
+#: base/redux/config.php:819
+msgid "Select Portfolio Hover Style"
+msgstr ""
+
+#: base/redux/config.php:822
+msgid "Hover Style One"
+msgstr ""
+
+#: base/redux/config.php:823
+msgid "Hover Style Two"
+msgstr ""
+
+#: base/redux/config.php:824
+msgid "Hover Style Three"
+msgstr ""
+
+#: base/redux/config.php:825
+msgid "Hover Style Four"
+msgstr ""
+
+#: base/redux/config.php:826
+msgid "Hover Style Five"
+msgstr ""
+
+#: base/redux/config.php:827
+msgid "Hover Style Six"
+msgstr ""
+
+#: base/redux/config.php:828
+msgid "Hover Style Seven"
+msgstr ""
+
+#: base/redux/config.php:829
+msgid "Hover Style Eight"
+msgstr ""
+
+#: base/redux/config.php:830
+msgid "Hover Style Nine"
+msgstr ""
+
+#: base/redux/config.php:837
+msgid "Portfolio Title Typography"
+msgstr ""
+
+#: base/redux/config.php:848
+msgid "Title Hover Color "
+msgstr ""
+
+#: base/redux/config.php:860 base/redux/config.php:868
+msgid "Filter Text Typography"
+msgstr ""
+
+#: base/redux/config.php:879
+msgid "Filter Hover Text Color "
+msgstr ""
+
+#: base/redux/config.php:886
+msgid "Filter Active Text Color"
+msgstr ""
+
+#: base/redux/config.php:893
+msgid "Filter Number Text Color"
+msgstr ""
+
+#: base/redux/config.php:900
+msgid "Filter Number Background Style"
+msgstr ""
+
+#: base/redux/config.php:908
+msgid "Filter Number border Color"
+msgstr ""
+
+#: base/redux/config.php:923
+msgid "Portfolio Single"
+msgstr ""
+
+#: base/redux/config.php:929
+msgid "Banner Style"
+msgstr ""
+
+#: base/redux/config.php:945
+msgid "Upload banner image"
+msgstr ""
+
+#: base/redux/config.php:960 base/redux/config.php:1560
+msgid "Banner Opacity"
+msgstr ""
+
+#: base/redux/config.php:961 base/redux/config.php:975
+#: base/redux/config.php:1199 base/redux/config.php:1211
+#: base/redux/config.php:1561 base/redux/config.php:1574
+msgid "Description. Min: 0, max: 1, step: 0.1, default value: 0.1"
+msgstr ""
+
+#: base/redux/config.php:974
+msgid "Transition Speed."
+msgstr ""
+
+#: base/redux/config.php:988 base/redux/config.php:1414
+msgid "Title Typography"
+msgstr ""
+
+#: base/redux/config.php:1000 base/redux/config.php:1252
+#: base/redux/config.php:1402
+msgid "Content Typography"
+msgstr ""
+
+#: base/redux/config.php:1012
+msgid "Share Text Typography"
+msgstr ""
+
+#: base/redux/config.php:1032
+msgid "Single Portfolio Slug"
+msgstr ""
+
+#: base/redux/config.php:1038
+msgid "Single Portfolio Layout"
+msgstr ""
+
+#: base/redux/config.php:1041
+msgid "Style One"
+msgstr ""
+
+#: base/redux/config.php:1042
+msgid "Style Two"
+msgstr ""
+
+#: base/redux/config.php:1043
+msgid "Style Three"
+msgstr ""
+
+#: base/redux/config.php:1044
+msgid "Style Four"
+msgstr ""
+
+#: base/redux/config.php:1045
+msgid "Style Five"
+msgstr ""
+
+#: base/redux/config.php:1055
+msgid "Show/Hide Social Share Icon"
+msgstr ""
+
+#: base/redux/config.php:1063
+msgid "Portfolio Category"
+msgstr ""
+
+#: base/redux/config.php:1069
+msgid "Portfolio Category Slug"
+msgstr ""
+
+#: base/redux/config.php:1075
+msgid "Portfolio Category Style"
+msgstr ""
+
+#: base/redux/config.php:1077
+msgid "Portfolio Style One"
+msgstr ""
+
+#: base/redux/config.php:1078
+msgid "Portfolio Style Two"
+msgstr ""
+
+#: base/redux/config.php:1079
+msgid "Portfolio Style Three"
+msgstr ""
+
+#: base/redux/config.php:1080
+msgid "Portfolio Style Four"
+msgstr ""
+
+#: base/redux/config.php:1081
+msgid "Portfolio Masonry One"
+msgstr ""
+
+#: base/redux/config.php:1082
+msgid "Portfolio Masonry Two"
+msgstr ""
+
+#: base/redux/config.php:1083
+msgid "Portfolio Masonry Three"
+msgstr ""
+
+#: base/redux/config.php:1084
+msgid "Portfolio Masonry Four"
+msgstr ""
+
+#: base/redux/config.php:1085
+msgid "Portfolio Column One"
+msgstr ""
+
+#: base/redux/config.php:1086
+msgid "Portfolio Column Two"
+msgstr ""
+
+#: base/redux/config.php:1087
+msgid "Portfolio Column Three"
+msgstr ""
+
+#: base/redux/config.php:1097
+msgid "Blog Options"
+msgstr ""
+
+#: base/redux/config.php:1104
+msgid "Blog Archive"
+msgstr ""
+
+#: base/redux/config.php:1110
+msgid "Blog Archive Style"
+msgstr ""
+
+#: base/redux/config.php:1113
+msgid "Style 1"
+msgstr ""
+
+#: base/redux/config.php:1114
+msgid "Style 2"
+msgstr ""
+
+#: base/redux/config.php:1121
+msgid "Blog Pagination Show/Hide"
+msgstr ""
+
+#: base/redux/config.php:1128
+msgid "Blog Filter Show/Hide"
+msgstr ""
+
+#: base/redux/config.php:1135
+msgid "Blog Excerpt Length"
+msgstr ""
+
+#: base/redux/config.php:1143
+msgid "Choose Load More Option"
+msgstr ""
+
+#: base/redux/config.php:1146
+msgid "Pagination"
+msgstr ""
+
+#: base/redux/config.php:1147
+msgid "Scrolling"
+msgstr ""
+
+#: base/redux/config.php:1148
+msgid "Clickable"
+msgstr ""
+
+#: base/redux/config.php:1155
+msgid "Blog Banner Show/Hide"
+msgstr ""
+
+#: base/redux/config.php:1162
+msgid "Upload Banner Image"
+msgstr ""
+
+#: base/redux/config.php:1169
+msgid "Blog Page Title"
+msgstr ""
+
+#: base/redux/config.php:1175
+msgid "Blog Title Font Size"
+msgstr ""
+
+#: base/redux/config.php:1198
+msgid "Banner Opcity"
+msgstr ""
+
+#: base/redux/config.php:1222
+msgid "Archive Blog Post Title"
+msgstr ""
+
+#: base/redux/config.php:1234
+msgid "Post Title Hover Color"
+msgstr ""
+
+#: base/redux/config.php:1246
+msgid "Post Content"
+msgstr ""
+
+#: base/redux/config.php:1263 base/redux/config.php:1426
+msgid "Category Typography"
+msgstr ""
+
+#: base/redux/config.php:1275
+msgid "Post Category Hover Color"
+msgstr ""
+
+#: base/redux/config.php:1281
+msgid "Blog Details Typography"
+msgstr ""
+
+#: base/redux/config.php:1292
+msgid "Filter Typography"
+msgstr ""
+
+#: base/redux/config.php:1303
+msgid "Filter Hover Color"
+msgstr ""
+
+#: base/redux/config.php:1309
+msgid "Pagination Typography"
+msgstr ""
+
+#: base/redux/config.php:1320
+msgid "Pagination Hover Color"
+msgstr ""
+
+#: base/redux/config.php:1334
+msgid "Blog Single Post"
+msgstr ""
+
+#: base/redux/config.php:1340
+msgid "Blog Single Page Banner In Container"
+msgstr ""
+
+#: base/redux/config.php:1351
+msgid "Blog Single Page Title And Meta In Banner"
+msgstr ""
+
+#: base/redux/config.php:1362
+msgid "Featured Image Background Size"
+msgstr ""
+
+#: base/redux/config.php:1365 base/redux/config.php:1541
+msgid "Auto"
+msgstr ""
+
+#: base/redux/config.php:1366 base/redux/config.php:1542
+msgid "Cover"
+msgstr ""
+
+#: base/redux/config.php:1367 base/redux/config.php:1543
+msgid "Contain"
+msgstr ""
+
+#: base/redux/config.php:1376
+msgid "Single Blog Title Color"
+msgstr ""
+
+#: base/redux/config.php:1385
+msgid "Single Blog Category Color"
+msgstr ""
+
+#: base/redux/config.php:1394
+msgid "Single Blog Meta Color"
+msgstr ""
+
+#: base/redux/config.php:1438
+msgid "Meta Typography"
+msgstr ""
+
+#: base/redux/config.php:1452
+msgid "Blog Meta"
+msgstr ""
+
+#: base/redux/config.php:1458
+msgid "Meta Info Show/Hide"
+msgstr ""
+
+#: base/redux/config.php:1464
+msgid "Display Date"
+msgstr ""
+
+#: base/redux/config.php:1471
+msgid "Display Author"
+msgstr ""
+
+#: base/redux/config.php:1478
+msgid "Display Comments"
+msgstr ""
+
+#: base/redux/config.php:1485
+msgid "Display Category"
+msgstr ""
+
+#: base/redux/config.php:1494
+msgid "Gallery"
+msgstr ""
+
+#: base/redux/config.php:1503
+msgid "Gallery Banner Enable/Disable"
+msgstr ""
+
+#: base/redux/config.php:1518
+msgid "Gallery Background Style"
+msgstr ""
+
+#: base/redux/config.php:1521
+msgid "Background Image"
+msgstr ""
+
+#: base/redux/config.php:1522 base/redux/config.php:1588
+msgid "Background Color"
+msgstr ""
+
+#: base/redux/config.php:1530
+msgid "Banner Image"
+msgstr ""
+
+#: base/redux/config.php:1531
+msgid "Upload gallery banner image"
+msgstr ""
+
+#: base/redux/config.php:1538
+msgid "Gallery Background Size"
+msgstr ""
+
+#: base/redux/config.php:1595
+msgid "Album Title Typography"
+msgstr ""
+
+#: base/redux/config.php:1611
+msgid "Social Media"
+msgstr ""
+
+#: base/redux/config.php:1620
+msgid "Blog Social Media Show/Hide"
+msgstr ""
+
+#: base/redux/config.php:1629
+msgid "Portfolio Social Media Show/Hide"
+msgstr ""
+
+#: base/redux/config.php:1643
+msgid "Facebook"
+msgstr ""
+
+#: base/redux/config.php:1651
+msgid "Twitter"
+msgstr ""
+
+#: base/redux/config.php:1659
+msgid "Google Plus"
+msgstr ""
+
+#: base/redux/config.php:1667
+msgid "Pinterest"
+msgstr ""
+
+#: base/redux/config.php:1675
+msgid "Tumblr"
+msgstr ""
+
+#: base/redux/config.php:1683
+msgid "Delicious"
+msgstr ""
+
+#: base/redux/config.php:1691
+msgid "RSS"
+msgstr ""
+
+#: base/redux/config.php:1702
+msgid "Sidebar Section"
+msgstr ""
+
+#: base/redux/config.php:1713 base/redux/config.php:1735
+msgid "Create Sidebar"
+msgstr ""
+
+#: base/redux/config.php:1736
+msgid "Name your sidebar and save changes"
+msgstr ""
+
+#: base/redux/config.php:1744
+msgid "Sidebar Options"
+msgstr ""
+
+#: base/redux/config.php:1750
+msgid "Page Sidebar"
+msgstr ""
+
+#: base/redux/config.php:1768
+msgid "Select Page Sidebar"
+msgstr ""
+
+#: base/redux/config.php:1776
+msgid "Blog Archive Sidebar"
+msgstr ""
+
+#: base/redux/config.php:1783
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: base/redux/config.php:1795
+msgid "Select Blog Archive Sidebar"
+msgstr ""
+
+#: base/redux/config.php:1803
+msgid "Blog Single Post Sidebar"
+msgstr ""
+
+#: base/redux/config.php:1810
+msgid "Blog Single Post Sidebar Position"
+msgstr ""
+
+#: base/redux/config.php:1822
+msgid "Select Blog SIngle Post Sidebar"
+msgstr ""
+
+#: base/redux/config.php:1834
+msgid "Footer Section"
+msgstr ""
+
+#: base/redux/config.php:1841
+msgid "Enable Footer"
+msgstr ""
+
+#: base/redux/config.php:1851
+msgid "Footer Background Style"
+msgstr ""
+
+#: base/redux/config.php:1858
+msgid "Copyright Text"
+msgstr ""
+
+#: base/redux/config.php:1859
+msgid ""
+"Copyright &copy; 2016. Wily Lab Limited <br />Desiged and Developed by <a "
+"href='http://wilylab.com/'>Wilylab</a>"
+msgstr ""
+
+#: base/redux/config.php:1865
+msgid "Copyright Text Color"
+msgstr ""
+
+#: base/redux/config.php:1872
+msgid "Enable Social Media"
+msgstr ""
+
+#: base/redux/config.php:1880
+msgid "Social media Color"
+msgstr ""
+
+#: base/redux/config.php:1887
+msgid "Facebook URL"
+msgstr ""
+
+#: base/redux/config.php:1895
+msgid "Twitter URL"
+msgstr ""
+
+#: base/redux/config.php:1897
+msgid "Set twitter url"
+msgstr ""
+
+#: base/redux/config.php:1904
+msgid "Google Plus URL"
+msgstr ""
+
+#: base/redux/config.php:1906
+msgid "Set google plus url"
+msgstr ""
+
+#: base/redux/config.php:1913
+msgid "Pinterest URL"
+msgstr ""
+
+#: base/redux/config.php:1915
+msgid "Set pinterest url"
+msgstr ""
+
+#: base/redux/config.php:1922
+msgid "LinkedIn URL"
+msgstr ""
+
+#: base/redux/config.php:1924
+msgid "Set linkedin url"
+msgstr ""
+
+#: base/redux/config.php:1931
+msgid "Tumblr URL"
+msgstr ""
+
+#: base/redux/config.php:1933
+msgid "Set tumblr url"
+msgstr ""
+
+#: base/redux/config.php:1940
+msgid "Vimeo URL"
+msgstr ""
+
+#: base/redux/config.php:1942
+msgid "Set vimeo url"
+msgstr ""
+
+#: base/redux/config.php:1949
+msgid "Skype URL"
+msgstr ""
+
+#: base/redux/config.php:1951
+msgid "Set skype url"
+msgstr ""
+
+#: base/redux/config.php:1958
+msgid "Google Drive URL"
+msgstr ""
+
+#: base/redux/config.php:1960
+msgid "Set google drive url"
+msgstr ""
+
+#: base/redux/config.php:1967
+msgid "Wordpress URL"
+msgstr ""
+
+#: base/redux/config.php:1969
+msgid "Set wordpress url"
+msgstr ""
+
+#: base/redux/config.php:1976
+msgid "Stumble Upon URL"
+msgstr ""
+
+#: base/redux/config.php:1978
+msgid "Set stumble upon url"
+msgstr ""
+
+#: base/redux/config.php:1985
+msgid "Dribbble URL"
+msgstr ""
+
+#: base/redux/config.php:1987
+msgid "Set dribbble url"
+msgstr ""
+
+#: base/redux/config.php:1996
+msgid "Extra Options"
+msgstr ""
+
+#: base/redux/config.php:2004
+msgid "Overall Dynamic CSS Enable/Disable"
+msgstr ""
+
+#: base/redux/config.php:2018
+msgid "Breadcrumbs Show/Hide"
+msgstr ""
+
+#: base/redux/config.php:2026
+msgid "Page Comment Show/Hide"
+msgstr ""
+
+#: base/redux/config.php:2035
+msgid "Go to Top Show/Hide"
+msgstr ""
+
+#: base/redux/config.php:2043
+msgid "Disable Go to Top in Mobile Show/Hide"
+msgstr ""
+
+#: base/redux/config.php:2053
+msgid "Documentation"
+msgstr ""
+
+#: base/redux/config.php:2145
+msgid "your custom error message"
+msgstr ""
+
+#: base/redux/config.php:2150
+msgid "your custom warning message"
+msgstr ""
+
+#: base/redux/config.php:2178
+msgid "Section via hook"
+msgstr ""
+
+#: base/redux/config.php:2179
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: base/redux/config.php:2205
+msgid "Testing filter hook!"
+msgstr ""
+
+#: base/sidebars.php:5
+msgid "Right sidebar"
+msgstr ""
+
+#: base/sidebars.php:27
+msgid "Left sidebar"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:393
+#: base/tgmpa/class-tgm-plugin-activation.php:912
+#: base/tgmpa/class-tgm-plugin-activation.php:2618
+#: base/tgmpa/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:394
+#: base/tgmpa/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:395
+#: base/tgmpa/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:1019
+#: base/tgmpa/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:1206
+#: base/tgmpa/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:3594
+#: base/tgmpa/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:3594
+#: base/tgmpa/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: base/tgmpa/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: base/tgmpa/config.php:64
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: base/tgmpa/config.php:76
+msgid "W Studio Plugin"
+msgstr ""
+
+#: base/tgmpa/config.php:89
+msgid "Redux Framework"
+msgstr ""
+
+#: base/tgmpa/config.php:94
+msgid "Contact Form 7"
+msgstr ""
+
+#: base/views/template-parts/blog-banner.php:30
+#: base/views/template-parts/portfolio-banner.php:69
+msgid "W Studio Banner"
+msgstr ""
+
+#: base/views/template-parts/blog-filter.php:7
+msgid "blog categories"
+msgstr ""
+
+#: base/views/template-parts/load-more.php:12
+msgid "load more"
+msgstr ""
+
+#: base/views/template-parts/pagination.php:13 index.php:133 search.php:70
+#: single-album.php:76 single-portfolio.php:65 single-team.php:33
+msgid "Previous"
+msgstr ""
+
+#: base/views/template-parts/pagination.php:15 index.php:135 search.php:70
+#: single-album.php:76 single-portfolio.php:65 single-team.php:33
+msgid "Next"
+msgstr ""
+
+#: base/views/template-parts/portfolio-single/content-portfolio-style-1.php:11
+#: base/views/template-parts/portfolio-single/content-portfolio-style-2.php:6
+#: base/views/template-parts/portfolio-single/content-portfolio-style-3.php:68
+#: base/views/template-parts/portfolio-single/content-portfolio-style-4.php:85
+#: base/views/template-parts/portfolio-single/content-portfolio-style-5.php:11
+msgid "Project Date"
+msgstr ""
+
+#: base/views/template-parts/portfolio-single/content-portfolio-style-1.php:27
+#: base/views/template-parts/portfolio-single/content-portfolio-style-2.php:14
+#: base/views/template-parts/portfolio-single/content-portfolio-style-3.php:84
+#: base/views/template-parts/portfolio-single/content-portfolio-style-4.php:101
+#: base/views/template-parts/portfolio-single/content-portfolio-style-5.php:27
+msgid "client"
+msgstr ""
+
+#: base/views/template-parts/portfolio-single/content-portfolio-style-1.php:41
+#: base/views/template-parts/portfolio-single/content-portfolio-style-2.php:21
+#: base/views/template-parts/portfolio-single/content-portfolio-style-3.php:98
+#: base/views/template-parts/portfolio-single/content-portfolio-style-4.php:119
+#: base/views/template-parts/portfolio-single/content-portfolio-style-5.php:41
+msgid "Category"
+msgstr ""
+
+#: base/views/template-parts/portfolio-single/content-portfolio-style-1.php:77
+#: base/views/template-parts/portfolio-single/content-portfolio-style-2.php:49
+#: base/views/template-parts/portfolio-single/content-portfolio-style-4.php:155
+#: base/views/template-parts/portfolio-single/content-portfolio-style-5.php:77
+msgid "Project Link"
+msgstr ""
+
+#: base/views/template-parts/share.php:6
+msgid "share"
+msgstr ""
+
+#: base/views/w-page-header.php:293 header.php:142 header.php:147
+#: header.php:153 header.php:155
+msgid "logo"
+msgstr ""
+
+#: base/widgets/ws-widget-categories.php:34
+msgid "Categories"
+msgstr ""
+
+#: base/widgets/ws-widget-categories.php:53
+msgid "Select Category"
+msgstr ""
+
+#: base/widgets/ws-widget-categories.php:143
+msgid "Title:"
+msgstr ""
+
+#: base/widgets/ws-widget-categories.php:150
+msgid "Display as dropdown"
+msgstr ""
+
+#: base/widgets/ws-widget-categories.php:153
+msgid "Show post counts"
+msgstr ""
+
+#: base/widgets/ws-widget-categories.php:157
+msgid "Show hierarchy"
+msgstr ""
+
+#: base/widgets/ws-widget-recent-posts.php:36
+msgid "Recent Posts"
+msgstr ""
+
+#: comments.php:14
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:34
+msgid "Pings: "
+msgstr ""
+
+#: comments.php:44
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:79
+msgid "Pingbacks / Trackbacks"
+msgstr ""
+
+#: comments.php:88
+msgid "Comments"
+msgstr ""
+
+#: comments.php:119
+msgid "Name*"
+msgstr ""
+
+#: comments.php:120
+msgid "Email*"
+msgstr ""
+
+#: comments.php:126
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:127
+msgid "Message*"
+msgstr ""
+
+#: comments.php:131
+msgid "Submit"
+msgstr ""
+
+#: footer.php:44
+msgid "Copyright © 2016. Wilylab"
+msgstr ""
+
+#: footer.php:45
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: footer.php:124
+msgid "Go to top"
+msgstr ""
+
+#: functions.php:47
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:48
+msgid "One Page Menu"
+msgstr ""
+
+#: search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:79
+#, php-format
+msgid "No Search Result Found for: %s"
+msgstr ""
+
+#: search.php:83 searchform.php:25
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: search.php:83 searchform.php:25
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: single.php:101
+msgid "Pages:"
+msgstr ""
+
+#: single.php:101
+msgid " "
+msgstr ""
+
+#: single.php:116
+msgid "Next post"
+msgstr ""
+
+#: single.php:116
+msgid "Previous post"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "W Studio"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themeforest.net/user/wilylab"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A Beautiful, Professional and Ultimate Wordpress Theme Made by Wilylab"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Wilylab"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wilylab.com/"
+msgstr ""

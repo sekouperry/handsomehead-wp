@@ -1,0 +1,37 @@
+[06-Jun-2020 05:18:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-Jun-2020 05:18:30 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[06-Jun-2020 05:18:30 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/e4i2y3g3/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[30-Dec-2020 22:43:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-Dec-2020 22:43:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[30-Dec-2020 22:43:42 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home2/e4i2y3g3/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[01-Jan-2021 18:31:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Jan-2021 18:31:25 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Jan-2021 18:31:25 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home2/e4i2y3g3/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[03-Jan-2021 21:45:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-Jan-2021 21:45:18 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-Jan-2021 21:45:18 America/Chicago] PHP Fatal error:  Call to undefined function _e() in /home2/e4i2y3g3/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[06-Jan-2021 16:51:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-Jan-2021 16:51:14 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[06-Jan-2021 16:51:14 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/e4i2y3g3/public_html/wp-content/themes/twentyfifteen/archive.php on line 19
+[08-Jan-2021 11:00:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Jan-2021 11:00:12 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Jan-2021 11:00:12 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/e4i2y3g3/public_html/wp-content/themes/twentyfifteen/index.php on line 17
+[09-Jan-2021 09:16:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-Jan-2021 09:16:02 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-Jan-2021 09:16:02 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/e4i2y3g3/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[02-Mar-2021 14:04:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[02-Mar-2021 14:04:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[02-Mar-2021 14:04:35 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/e4i2y3g3/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[26-May-2021 05:36:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-May-2021 05:36:47 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-May-2021 05:36:47 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/e4i2y3g3/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[29-Aug-2021 17:37:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Aug-2021 17:37:16 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-Aug-2021 17:37:16 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/e4i2y3g3/public_html/wp-content/themes/twentyfifteen/archive.php on line 19
+[13-Sep-2021 13:33:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Sep-2021 13:33:05 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Sep-2021 13:33:05 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/e4i2y3g3/public_html/wp-content/themes/twentyfifteen/index.php on line 17
+[18-Sep-2021 16:17:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home2/e4i2y3g3/public_html/wp-content/themes/twentyfifteen/author-bio.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/e4i2y3g3/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
